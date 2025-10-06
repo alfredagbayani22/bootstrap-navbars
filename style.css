@@ -1,0 +1,14 @@
+.boardroom-nav {
+  background-color: #133B40;
+}
+
+.navbar a,
+.navbar .nav-link,
+.navbar-brand {
+  color: white !important;
+}
+
+.navbar .btn-dark {
+  border-radius: 25px;
+  padding: 6px 16px;
+}
