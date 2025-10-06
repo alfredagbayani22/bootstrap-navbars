@@ -56,3 +56,25 @@
   color: white;
   cursor: pointer;
 }
+
+.navbar-light .nav-link {
+  color: black;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+  margin: 0 0.5rem;
+}
+
+.navbar-light .nav-link:hover {
+  color: #EDC601;
+  text-decoration: none;
+}
+
+.navbar-light .bi {
+  margin-right: 4px;
+  vertical-align: middle;
+}
+
+.navbar-light .navbar-brand img {
+  display: block;
+}
