@@ -33,3 +33,26 @@
   padding-top: 0px;
   color: black;
 }
+
+.buzzs-nav {
+  background-color: rgb(48, 73, 95);
+  color: white;
+}
+
+.buzzs-nav h4 {
+  margin: 0;
+  color: white;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+}
+
+.buzzs-nav h4:hover {
+  text-decoration: underline;
+}
+
+.buzzs-nav .bi-cart {
+  color: white;
+  cursor: pointer;
+}
