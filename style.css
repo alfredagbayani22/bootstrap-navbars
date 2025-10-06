@@ -2,9 +2,13 @@
   background-color: #133B40;
 }
 
-.navbar a,
-.navbar .nav-link,
-.navbar-brand {
+.boardroom-nav .navbar a,
+.boardroom-nav .navbar .nav-link,
+.boardroom-nav .navbar-brand,
+.buzzs-nav .navbar a,
+.buzzs-nav .navbar .nav-link,
+.dukes-nav .navbar a,
+.dukes-nav .navbar .nav-link {
   color: white !important;
 }
 
@@ -76,5 +80,27 @@
 }
 
 .navbar-light .navbar-brand img {
+  display: block;
+}
+
+.dukes-nav {
+  background-color: #017574;
+  color: white;
+}
+
+.dukes-nav .nav-link {
+  color: white;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  margin: 0 0.5rem;
+}
+
+.dukes-nav .nav-link:hover {
+  text-decoration: underline;
+  color: #F1A228;
+}
+
+.dukes-nav .navbar-brand img {
   display: block;
 }
