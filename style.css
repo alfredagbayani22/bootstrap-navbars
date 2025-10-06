@@ -2,9 +2,13 @@
   background-color: #133B40;
 }
 
-.navbar a,
-.navbar .nav-link,
-.navbar-brand {
+.boardroom-nav .navbar a,
+.boardroom-nav .navbar .nav-link,
+.boardroom-nav .navbar-brand,
+.buzzs-nav .navbar a,
+.buzzs-nav .navbar .nav-link,
+.dukes-nav .navbar a,
+.dukes-nav .navbar .nav-link {
   color: white !important;
 }
 
